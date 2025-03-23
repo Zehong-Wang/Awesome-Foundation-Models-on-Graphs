@@ -7,10 +7,7 @@
 
 1. [Preprint] **MiniMol: A Parameter-Efficient Foundation Model for Molecular Learning** [[PDF](https://arxiv.org/abs/2404.14986)] 
 2. [Preprint] **DPA-2: a large atomic model as a multi-task learner** [[PDF](https://arxiv.org/abs/2312.15492)] [[Code](https://zenodo.org/records/10428497)]
-
-**From Molecules to Materials: Pre-training Large Generalizable Models for Atomic Property Prediction** <kbd>ICLR</kbd>
-
-*Fabian B. Fuchs, Andreu Vilar Vall, Daniel Schwalbe-Koda, Michael Craig, Tailin Wu, Shruti Joshi, Roberto dos Reis, Davide Mercadante, Enric Ribot, Alvaro Sanchez-Gonzalez, Rex Ying, Wenting Sun, Ryosuke Kojima* [[PDF](https://arxiv.org/abs/2310.16802)] [[Code](https://nima.sh/jmp/)]
+3. [ICLR 2024] **From Molecules to Materials: Pre-training Large Generalizable Models for Atomic Property Prediction** [[PDF](https://arxiv.org/abs/2310.16802)] [[Code](https://nima.sh/jmp/)]
 
 **A foundation model for atomistic materials chemistry** <kbd>preprint</kbd>
 
