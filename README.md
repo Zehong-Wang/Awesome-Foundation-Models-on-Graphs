@@ -243,4 +243,4 @@
 5. [ICML]**Future Directions in the Theory of Graph Machine Learning** [[PDF](https://arxiv.org/abs/2402.02287)] 
 6. [Preprint]**Graph Meets LLMs: Towards Large Graph Models** [[PDF](https://arxiv.org/abs/2308.14522)] 
 7. [ICML]**Graph Foundation Models are Already Here!** [[PDF](https://arxiv.org/abs/2402.02216)] 
-8. [Preprint]**A survey of graph meets large language model: Progress and future directions** [[PDF](https://arxiv.org/abs/2311.12399)] # Graph Foundation Models Literature with Author Information
+8. [Preprint]**A survey of graph meets large language model: Progress and future directions** [[PDF](https://arxiv.org/abs/2311.12399)]
