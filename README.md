@@ -16,8 +16,8 @@
     - [Graph Model-based Methods](#graph-model-based-methods)
     - [Language Model-based Methods](#language-model-based-methods)
     - [Graph-Language Co-Training](#graph-language-co-training)
-  - [Domain-Specific](#domain-specific)
-    - [Biology](#biology)
+  - [Domain-Specific GFMs](#domain-specific-gfms)
+    - [Biology and Molecule](#biology-and-molecule)
     - [Knowledge Graph](#knowledge-graph)
     - [Academic Graph](#academic-graph)
     - [Graph Math Reasoning](#graph-math-reasoning)
@@ -25,7 +25,7 @@
     - [Heterogeneous Graph](#heterogeneous-graph)
     - [Causal Graph](#causal-graph)
     - [Document Graph](#document-graph)
-  - [Task-Specific](#task-specific)
+  - [Task-Specific GFMs](#task-specific-gfms)
     - [Node Classification](#node-classification)
     - [Link Prediction](#link-prediction)
     - [Graph Classification](#graph-classification)
@@ -131,9 +131,9 @@
 12. [Preprint] **GraphAgent: Agentic Graph Language Assistant** [[PDF](https://arxiv.org/abs/2412.17029)] [[Code](https://github.com/HKUDS/GraphAgent)]
 
 
-## Domain-Specific
+## Domain-Specific GFMs
 
-### Biology
+### Biology and Molecule
 1. [Preprint] **MiniMol: A Parameter-Efficient Foundation Model for Molecular Learning** [[PDF](https://arxiv.org/abs/2404.14986)] 
 2. [Preprint] **DPA-2: a large atomic model as a multi-task learner** [[PDF](https://arxiv.org/abs/2312.15492)] [[Code](https://zenodo.org/records/10428497)]
 3. [ICLR 2024] **From Molecules to Materials: Pre-training Large Generalizable Models for Atomic Property Prediction** [[PDF](https://arxiv.org/abs/2310.16802)] [[Code](https://nima.sh/jmp/)]
@@ -218,7 +218,7 @@
 6. [ICLR 2023] **Learning on Large-scale Text-attributed Graphs via Variational Inference** [[PDF](https://arxiv.org/abs/2210.14709)] [[Code](https://github.com/AndyJZhao/GLEM)]
 7. [ACL 2023] **Patton: Language Model Pretraining on Text-Rich Networks** [[PDF](https://arxiv.org/abs/2305.12268)] [[Code](https://github.com/PeterGriffinJin/Patton)]
 
-## Task-Specific
+## Task-Specific GFMs
 
 ### Node Classification
 1. [Preprint] **ENGINE: Efficient Tuning and Inference for Large Language Models on Textual Graphs** [[PDF](https://arxiv.org/abs/2401.15569)] [[Code](https://github.com/ZhuYun97/ENGINE)]
