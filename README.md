@@ -4,6 +4,7 @@
 
 <img src="assets/Intro.svg">
 
+This is a description. 
 
 ## Table of Contents
 - [Awesome-Foundation-Models-on-Graphs ](#awesome-foundation-models-on-graphs-)
@@ -286,6 +287,15 @@
 16. [Preprint] **LLM and GNN are Complementary: Distilling LLM for Multimodal Graph Learning** [[PDF](https://arxiv.org/abs/2406.01032)] 
 17. [Preprint] **UniMoT: Unified Molecule-Text Language Model with Discrete Token Representation** [[PDF](https://arxiv.org/abs/2408.00863)] [[Code](https://uni-mot.github.io/)]
 
+### Graph Generation
+1. [ICML 2022] **Score-based Generative Modeling of Graphs via the System of Stochastic Differential Equations** [[PDF](https://arxiv.org/abs/2202.02514)] [[Code](https://github.com/harryjo97/GDSS)]
+2. [ICANN 2018] **GraphVAE: Towards Generation of Small Graphs Using Variational Autoencoders** [[PDF](https://arxiv.org/abs/1802.03480)]
+3. [ICLR 2023] **DiGress: Discrete Denoising Diffusion for Graph Generation** [[PDF](https://arxiv.org/abs/2209.14734)]
+4. [arXiv 2024] **Cross-Domain Graph Data Scaling: A Showcase with Diffusion Models** [[PDF](https://arxiv.org/abs/2406.01899)] [[Code](https://github.com/WenzhuoTang/UniAug)]
+5. [arXiv 2024] **Exploring the Potential of Large Language Models in Graph Generation** [[PDF](https://arxiv.org/abs/2403.14358)]
+6. [NeurIPS 2024] **InstructG2I: Synthesizing Images from Multimodal Attributed Graphs** [[PDF](https://arxiv.org/abs/2410.07157)] [[Code](https://github.com/PeterGriffinJin/InstructG2I)]
+7. [ICLR 2025] **Large Generative Graph Models** [[PDF](https://arxiv.org/abs/2406.05109)] [[Code](https://lggm-lg.github.io/)]
+   
 ### Question Answering
 1. [Preprint] **Benchmarking and Improving Large Vision-Language Models for Fundamental Visual Graph Understanding and Reasoning** [[PDF](https://arxiv.org/abs/2412.13540)] [[Code](https://github.com/AAAndy-Zhu/VGCure)]
 2. [Preprint] **GT2Vec: Large Language Models as Multi-Modal Encoders for Text and Graph-Structured Data** [[PDF](https://arxiv.org/abs/2410.11235)] 
@@ -310,14 +320,5 @@
 5. [NeurIPS 2024] **ARC: A Generalist Graph Anomaly Detector with In-Context Learning** [[PDF](https://arxiv.org/abs/2405.16771)] [[Code](https://github.com/yixinliu233/ARC)]
 6. [EMNLP 2024] **MolCA: Molecular Graph-Language Modeling with Cross-Modal Projector and Uni-Modal Adapter** [[PDF](https://arxiv.org/abs/2310.12798)] [[Code](https://github.com/acharkq/MolCA)]
 7. [TNNLS 2021] **Cross-Domain Graph Anomaly Detection** [[PDF](https://ieeexplore.ieee.org/document/9556511)]
-
-### Graph Generation
-1. [ICML 2022] **Score-based Generative Modeling of Graphs via the System of Stochastic Differential Equations** [[PDF](https://arxiv.org/abs/2202.02514)] [[Code](https://github.com/harryjo97/GDSS)]
-2. [ICANN 2018] **GraphVAE: Towards Generation of Small Graphs Using Variational Autoencoders** [[PDF](https://arxiv.org/abs/1802.03480)]
-3. [ICLR 2023] **DiGress: Discrete Denoising Diffusion for Graph Generation** [[PDF](https://arxiv.org/abs/2209.14734)]
-4. [arXiv 2024] **Cross-Domain Graph Data Scaling: A Showcase with Diffusion Models** [[PDF](https://arxiv.org/abs/2406.01899)] [[Code](https://github.com/WenzhuoTang/UniAug)]
-5. [arXiv 2024] **Exploring the Potential of Large Language Models in Graph Generation** [[PDF](https://arxiv.org/abs/2403.14358)]
-6. [NeurIPS 2024] **InstructG2I: Synthesizing Images from Multimodal Attributed Graphs** [[PDF](https://arxiv.org/abs/2410.07157)] [[Code](https://github.com/PeterGriffinJin/InstructG2I)]
-7. [ICLR 2025] **Large Generative Graph Models** [[PDF](https://arxiv.org/abs/2406.05109)] [[Code](https://lggm-lg.github.io/)]
 
 ## Citation
