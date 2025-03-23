@@ -2,7 +2,7 @@
 
 ## Graph Foundation Models
 
-<img src="assets/intro.svg">
+<img src="assets/intro.png">
 
 
 ## Table of Contents
