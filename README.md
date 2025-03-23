@@ -269,4 +269,8 @@
 4. [Preprint] **Zero-shot Generalist Graph Anomaly Detection with Unified Neighborhood Prompts** [[PDF](https://arxiv.org/abs/2410.14886)] [[Code](https://github.com/WenzhuoTang/UniAug)]
 5. [NeurIPS 2024] **ARC: A Generalist Graph Anomaly Detector with In-Context Learning** [[PDF](https://arxiv.org/abs/2405.16771)] [[Code](https://github.com/yixinliu233/ARC)]
 6. [EMNLP 2024] **MolCA: Molecular Graph-Language Modeling with Cross-Modal Projector and Uni-Modal Adapter** [[PDF](https://arxiv.org/abs/2310.12798)] [[Code](https://github.com/acharkq/MolCA)]
-7. [TNNLS 2021] **Cross-Domain Graph Anomaly Detection** [[PDF](https://ieeexplore.ieee.org/document/9556511)] 
+7. [TNNLS 2021] **Cross-Domain Graph Anomaly Detection** [[PDF](https://ieeexplore.ieee.org/document/9556511)]
+
+### Graph Generation
+1. [ICML 2022] **Score-based Generative Modeling of Graphs via the System of Stochastic Differential Equations** [[PDF](https://arxiv.org/abs/2202.02514)][[Code](https://github.com/harryjo97/GDSS)]
+2. 
