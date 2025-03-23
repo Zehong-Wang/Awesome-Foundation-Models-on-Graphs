@@ -5,13 +5,8 @@
 
 ### Biology
 
-**MiniMol: A Parameter-Efficient Foundation Model for Molecular Learning** <kbd>preprint</kbd>
-
-*Dingshuo Chen, Yanqiao Zhu, Yuanqi Du, Chenru Duan, Zhichun Guo, Yufeng Su, Haorui Li, Qiang Zhang, Yu Guang Wang, Hongyu Guo, Ningyu Zhang, Huajun Chen, Ming Zhang* [[PDF](https://arxiv.org/abs/2404.14986)] 
-
-**DPA-2: a large atomic model as a multi-task learner** <kbd>preprint</kbd>
-
-*Xiang Fu, Zimu Li, Yingze Wang, Jie Yang, Lijiang Yang, Gabriel A. Cisneros, Olexandr Isayev* [[PDF](https://arxiv.org/abs/2312.15492)] [[Code](https://zenodo.org/records/10428497)]
+1. [Preprint] **MiniMol: A Parameter-Efficient Foundation Model for Molecular Learning** [[PDF](https://arxiv.org/abs/2404.14986)] 
+2. [Preprint] **DPA-2: a large atomic model as a multi-task learner** [[PDF](https://arxiv.org/abs/2312.15492)] [[Code](https://zenodo.org/records/10428497)]
 
 **From Molecules to Materials: Pre-training Large Generalizable Models for Atomic Property Prediction** <kbd>ICLR</kbd>
 
