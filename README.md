@@ -243,7 +243,9 @@
 7. [TNNLS 2021] **Cross-Domain Graph Anomaly Detection** [[PDF](https://ieeexplore.ieee.org/document/9556511)] 
 
 ## Benchmarks and Surveys
+
 ### Benchmarks
+
 1. [Preprint] **A Comprehensive Analysis on LLM-based Node Classification Algorithms** [[PDF](https://arxiv.org/abs/2502.00829)] 
 2. [Preprint] **Towards Foundational Models for Molecular Learning on Large-Scale Multi-Task Datasets** [[PDF](https://arxiv.org/abs/2310.04292)] 
 3. [Others 2024] **TreeTop: Topology-Aware Fine-Tuning for LLM Conversation Tree Understanding** [[PDF](https://openreview.net/forum?id=RDInbUc10o)] 
@@ -255,13 +257,9 @@
 9. [Others 2024] **FlowGPT: How Long can LLMs Trace Back and Predict the Trends of Graph Dynamics?** [[PDF](https://southnlp.github.io/southnlp2024/papers/southnlp2024-poster-22.pdf)] [[Code](https://zenodo.org/records/10517068)]
 10. [KDD 2024] **LLM4DyG: Can Large Language Models Solve Spatial-Temporal Problems on Dynamic Graphs?** [[PDF](https://arxiv.org/abs/2310.17110)] [[Code](https://github.com/wondergo2017/LLM4DyG)]
 11. [Preprint] **GraphFM: A Comprehensive Benchmark for Graph Foundation Model** [[PDF](https://arxiv.org/abs/2406.08310)] 
-### Scaling Laws
-1. [NeurIPS 2024] **Understanding Transformer Reasoning Capabilities via Graph Algorithms** [[PDF](https://openreview.net/forum?id=AfzbDw6DSp&noteId=1otYR7BQ1B)] 
-2. [NeurIPS 2023] **Uncovering Neural Scaling Laws in Molecular Representation Learning** [[PDF](https://openreview.net/forum?id=Ys8RmfF9w1)] 
-3. [NMI 2023] **Neural scaling of deep chemical models** [[PDF](https://www.nature.com/articles/s42256-023-00740-3)] 
-4. [Preprint] **Do Neural Scaling Laws Exist on Graph Self-Supervised Learning?** [[PDF](https://arxiv.org/abs/2408.11243)] 
-5. [Preprint] **Towards Neural Scaling Laws on Graphs** [[PDF](https://arxiv.org/abs/2402.02054)] 
+
 ### Surveys
+
 1. [Preprint] **Graph2text or Graph2token: A Perspective of Large Language Models for Graph Learning** [[PDF](https://arxiv.org/abs/2501.01124)] 
 2. [Preprint] **Graph Foundation Models for Recommendation: A Comprehensive Survey** [[PDF](https://arxiv.org/abs/2502.08346)] 
 3. [Preprint] **A Survey on Self-Supervised Graph Foundation Models: Knowledge-Based Perspective** [[PDF](https://arxiv.org/abs/2403.16137)] 
@@ -270,3 +268,5 @@
 6. [Preprint] **Graph Meets LLMs: Towards Large Graph Models** [[PDF](https://arxiv.org/abs/2308.14522)] 
 7. [ICML 2024] **Graph Foundation Models are Already Here!** [[PDF](https://arxiv.org/abs/2402.02216)] 
 8. [Preprint] **A survey of graph meets large language model: Progress and future directions** [[PDF](https://arxiv.org/abs/2311.12399)]
+9. [Preprint] **A Survey of Cross-domain Graph Learning: Progress and Future Directions** [[PDF](https://www.arxiv.org/abs/2503.11086)]
+10. [Preprint] **Towards Graph Foundation Models: A Transferability Perspective** [[PDF](https://arxiv.org/abs/2503.09363)]
