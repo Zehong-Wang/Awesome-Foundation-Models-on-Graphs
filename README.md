@@ -1,5 +1,42 @@
 # Awesome-Foundation-Models-on-Graphs [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+## Graph Foundation Models
+
+<img src="assets/intro.svg">
+</div>
+
+
+## Table of Contents
+- [Awesome-Foundation-Models-on-Graphs ](#awesome-foundation-models-on-graphs-)
+  - [Graph Foundation Models](#graph-foundation-models)
+  - [Table of Contents](#table-of-contents)
+  - [Benchmarks and Surveys](#benchmarks-and-surveys)
+    - [Benchmarks](#benchmarks)
+    - [Surveys](#surveys)
+  - [Universal GFMs](#universal-gfms)
+    - [Graph Model-based Methods](#graph-model-based-methods)
+    - [Language Model-based Methods](#language-model-based-methods)
+    - [Graph-Language Co-Training](#graph-language-co-training)
+  - [Domain-Specific](#domain-specific)
+    - [Biology](#biology)
+    - [Knowledge Graph](#knowledge-graph)
+    - [Academic Graph](#academic-graph)
+    - [Graph Math Reasoning](#graph-math-reasoning)
+    - [Temporal Graph](#temporal-graph)
+    - [Heterogeneous Graph](#heterogeneous-graph)
+    - [Causal Graph](#causal-graph)
+    - [Document Graph](#document-graph)
+  - [Task-Specific](#task-specific)
+    - [Node Classification](#node-classification)
+    - [Link Prediction](#link-prediction)
+    - [Graph Classification](#graph-classification)
+    - [Question Answering](#question-answering)
+    - [Recommendation](#recommendation)
+    - [Anomaly Detection](#anomaly-detection)
+    - [Graph Generation](#graph-generation)
+  - [Citation](#citation)
+
+
 ## Benchmarks and Surveys
 
 ### Benchmarks
@@ -272,5 +309,12 @@
 7. [TNNLS 2021] **Cross-Domain Graph Anomaly Detection** [[PDF](https://ieeexplore.ieee.org/document/9556511)]
 
 ### Graph Generation
-1. [ICML 2022] **Score-based Generative Modeling of Graphs via the System of Stochastic Differential Equations** [[PDF](https://arxiv.org/abs/2202.02514)][[Code](https://github.com/harryjo97/GDSS)]
-2. 
+1. [ICML 2022] **Score-based Generative Modeling of Graphs via the System of Stochastic Differential Equations** [[PDF](https://arxiv.org/abs/2202.02514)] [[Code](https://github.com/harryjo97/GDSS)]
+2. [ICANN 2018] **GraphVAE: Towards Generation of Small Graphs Using Variational Autoencoders** [[PDF](https://arxiv.org/abs/1802.03480)]
+3. [ICLR 2023] **DiGress: Discrete Denoising Diffusion for Graph Generation** [[PDF](https://arxiv.org/abs/2209.14734)]
+4. [arXiv 2024] **Cross-Domain Graph Data Scaling: A Showcase with Diffusion Models** [[PDF](https://arxiv.org/abs/2406.01899)] [[Code](https://github.com/WenzhuoTang/UniAug)]
+5. [arXiv 2024] **Exploring the Potential of Large Language Models in Graph Generation** [[PDF](https://arxiv.org/abs/2403.14358)]
+6. [NeurIPS 2024] **InstructG2I: Synthesizing Images from Multimodal Attributed Graphs** [[PDF](https://arxiv.org/abs/2410.07157)] [[Code](https://github.com/PeterGriffinJin/InstructG2I)]
+7. [ICLR 2025] **Large Generative Graph Models** [[PDF](https://arxiv.org/abs/2406.05109)] [[Project](https://lggm-lg.github.io/)]
+
+## Citation
