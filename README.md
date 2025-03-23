@@ -1,8 +1,14 @@
 # Awesome-Foundation-Models-on-Graphs [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+**This repo will be continuously updated. Don't forget to star <img src="./fig/star.svg" width="15" height="15" /> it and keep tuned!** 
+
+**Please cite the paper in [Citations](#citations) if you find the resource helpful for your research. Thanks!**
+
 ## Graph Foundation Models
 
-<img src="assets/Intro.svg">
+<p align="center">
+  <img src="assets/Intro.svg" width="90%" style="align:center;"/>
+</p>
 
 This is a description. 
 
