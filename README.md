@@ -318,6 +318,6 @@
 4. [arXiv 2024] **Cross-Domain Graph Data Scaling: A Showcase with Diffusion Models** [[PDF](https://arxiv.org/abs/2406.01899)] [[Code](https://github.com/WenzhuoTang/UniAug)]
 5. [arXiv 2024] **Exploring the Potential of Large Language Models in Graph Generation** [[PDF](https://arxiv.org/abs/2403.14358)]
 6. [NeurIPS 2024] **InstructG2I: Synthesizing Images from Multimodal Attributed Graphs** [[PDF](https://arxiv.org/abs/2410.07157)] [[Code](https://github.com/PeterGriffinJin/InstructG2I)]
-7. [ICLR 2025] **Large Generative Graph Models** [[PDF](https://arxiv.org/abs/2406.05109)] [[Project](https://lggm-lg.github.io/)]
+7. [ICLR 2025] **Large Generative Graph Models** [[PDF](https://arxiv.org/abs/2406.05109)] [[Code](https://lggm-lg.github.io/)]
 
 ## Citation
