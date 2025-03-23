@@ -3,7 +3,6 @@
 ## Graph Foundation Models
 
 <img src="assets/intro.svg">
-</div>
 
 
 ## Table of Contents
