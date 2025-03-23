@@ -67,6 +67,8 @@
 
 ## Universal GFMs
 
+<img src="assets/universal.png">
+
 ### Graph Model-based Methods
 
 1. [EMNLP 2024] **OpenGraph: Towards Open Graph Foundation Models** [[PDF](https://arxiv.org/abs/2403.01121)] [[Code](https://github.com/HKUDS/OpenGraph)]
@@ -132,6 +134,7 @@
 
 
 ## Domain-Specific GFMs
+<img src="assets/domain-specific.png">
 
 ### Biology and Molecule
 1. [Preprint] **MiniMol: A Parameter-Efficient Foundation Model for Molecular Learning** [[PDF](https://arxiv.org/abs/2404.14986)] 
@@ -219,6 +222,7 @@
 7. [ACL 2023] **Patton: Language Model Pretraining on Text-Rich Networks** [[PDF](https://arxiv.org/abs/2305.12268)] [[Code](https://github.com/PeterGriffinJin/Patton)]
 
 ## Task-Specific GFMs
+<img src="assets/task-specific.png">
 
 ### Node Classification
 1. [Preprint] **ENGINE: Efficient Tuning and Inference for Large Language Models on Textual Graphs** [[PDF](https://arxiv.org/abs/2401.15569)] [[Code](https://github.com/ZhuYun97/ENGINE)]
