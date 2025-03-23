@@ -67,7 +67,7 @@
 9. [AAAI 2025] **Bootstrapping Heterogeneous Graph Representation Learning via Large Language Models: A Generalized Approach** [[PDF](https://arxiv.org/abs/2412.08038)] [[Code](https://github.com/zch65458525/GHGRL/tree/main)]
 10. [KDD 2024] **HiGPT: Heterogeneous Graph Language Model** [[PDF](https://dl.acm.org/doi/abs/10.1145/3637528.3671987)] [[Code](https://github.com/HKUDS/HiGPT)]
 ### Causal
-1. [Others 2024] **Zero-shot Causal Graph Extrapolation from Text via LLMs** [[PDF](https://arxiv.org/abs/2312.14670)] [[Code](https://github.com/IDSIA-papers/causal-llms)]
+1. [XAI4Sci Workshop 2024] **Zero-shot Causal Graph Extrapolation from Text via LLMs** [[PDF](https://arxiv.org/abs/2312.14670)] [[Code](https://github.com/IDSIA-papers/causal-llms)]
 ### Semantic Document
 1. [Preprint] **Learning Multiplex Representations on Text-Attributed Graphs with One Language Model Encoder** [[PDF](https://arxiv.org/abs/2310.06684)] [[Code](https://github.com/PeterGriffinJin/METAG)]
 2. [ICLR 2024] **Harnessing Explanations: LLM-to-LM Interpreter for Enhanced Text-Attributed Graph Representation Learning** [[PDF](https://arxiv.org/abs/2305.19523)] [[Code](https://github.com/XiaoxinHe/TAPE)]
