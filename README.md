@@ -10,7 +10,7 @@
   <img src="assets/Intro.svg" width="90%" style="align:center;"/>
 </p>
 
-This is a description. 
+From Task-Specific Graph Models to General-Purpose Graph Foundation Models. \textbf{(a)} GFMs are pretrained on large-scale graph corpora spanning multiple domains (e.g., social, web, academic, molecular) to acquire broadly transferable representations. Through various adaptation techniques—such as fine-tuning, distillation, prompting, or zero-shot inference—they can generalize across a wide spectrum of downstream tasks, including node classification, link prediction, graph classification, and graph-to-text generation. \textbf{(b)} In contrast, traditional GNNs are typically trained in an end-to-end manner on a single-domain dataset for a specific task, often lacking the scalability and generalization capabilities required for open-world settings. This shift mirrors the transition observed in language and vision domains, where foundation models have redefined the standard for general-purpose intelligence.
 
 ## Table of Contents
 - [Awesome-Foundation-Models-on-Graphs ](#awesome-foundation-models-on-graphs-)
