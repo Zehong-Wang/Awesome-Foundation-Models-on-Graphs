@@ -352,4 +352,11 @@
 
 ## Citation
 
-TODO
+```
+@article{wang2025graph,
+  title     = {Graph Foundation Models: A Comprehensive Survey},
+  author    = {Wang, Zehong and Liu, Zheyuan and Ma, Tianyi and Li, Jiazheng and Zhang, Zheyuan and Fu, Xingbo and Li, Yiyang and Yuan, Zhengqing and Song, Wei and Ma, Yijun and Zeng, Qingkai and Chen, Xiusi and Zhao, Jianan and Li, Jundong and Jiang, Meng and Lio, Pietro and Chawla, Nitesh and Zhang, Chuxu and Ye, Yanfang},
+  journal   = {arXiv preprint arXiv:2505.15116},
+  year      = {2025}
+}
+```
