@@ -2,9 +2,7 @@
 
 **The is the repo for paper: [Graph Foundation Models: A Comprehensive Survey](https://arxiv.org/abs/2505.15116)**
 
-This repo will be continuously updated. Don't forget to star it and keep tuned!
-
-Please cite the paper in [Citation](#citation) if you find the resource helpful for your research. Thanks!
+This repo will be continuously updated. Don't forget to star it and keep tuned! Please cite the paper in [Citation](#citation) if you find the resource helpful for your research. Thanks!
 
 ## Graph Foundation Models
 
