@@ -2,7 +2,7 @@
 
 **The is the repo for paper: [Graph Foundation Models: A Comprehensive Survey](https://arxiv.org/abs/2505.15116)**
 
-This repo will be continuously updated. Don't forget to star `<img src="assets/star.svg" width="15" height="15" />` it and keep tuned!
+This repo will be continuously updated. Don't forget to star it and keep tuned!
 
 Please cite the paper in [Citation](#citation) if you find the resource helpful for your research. Thanks!
 
@@ -50,7 +50,6 @@ Please cite the paper in [Citation](#citation) if you find the resource helpful 
 ## Benchmarks and Surveys
 
 ### Benchmarks
-
 
 - [ICLR 25] **How Do Large Language Models Understand Graph Patterns? A Benchmark for Graph Pattern Comprehension** [[PDF](https://arxiv.org/abs/2410.05298)]
 - [Arxiv 25.04] **GraphOmni: A Comprehensive and Extendable Benchmark Framework for Large Language Models on Graph-theoretic Tasks** [[PDF](https://arxiv.org/abs/2504.12764)]
@@ -243,6 +242,7 @@ Please cite the paper in [Citation](#citation) if you find the resource helpful 
 - [XAI4Sci Workshop 2024] **Zero-shot Causal Graph Extrapolation from Text via LLMs** [[PDF](https://arxiv.org/abs/2312.14670)] [[Code](https://github.com/IDSIA-papers/causal-llms)]
 
 ### Hyperbolic Graph
+
 - [Arxiv 25.04] **HyperCore: The Core Framework for Building Hyperbolic Foundation Models with Comprehensive Modules** [[PDF](https://arxiv.org/abs/2504.08912)]
 
 ### Document Graph
