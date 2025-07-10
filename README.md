@@ -340,6 +340,7 @@ This repo will be continuously updated. Don't forget to star it and keep tuned! 
 ### Question Answering
 
 - [Arxiv 25.02] **GFM-RAG: Graph Foundation Model for Retrieval Augmented Generation** [[PDF](https://arxiv.org/abs/2502.01113)] [[Code](https://github.com/RManLuo/gfm-rag)]
+- [CompleNet 24] **"LLMs hallucinate graphs too: a structural perspective** [[PDF](https://arxiv.org/abs/2409.00159)]
 - [Arxiv 24.12] **Benchmarking and Improving Large Vision-Language Models for Fundamental Visual Graph Understanding and Reasoning** [[PDF](https://arxiv.org/abs/2412.13540)] [[Code](https://github.com/AAAndy-Zhu/VGCure)]
 - [Arxiv 24.10] **GT2Vec: Large Language Models as Multi-Modal Encoders for Text and Graph-Structured Data** [[PDF](https://arxiv.org/abs/2410.11235)]
 - [NeurIPS 24] **G-Retriever: Retrieval-Augmented Generation for Textual Graph Understanding and Question Answering** [[PDF](https://proceedings.neurips.cc/paper_files/paper/2024/hash/efaf1c9726648c8ba363a5c927440529-Abstract-Conference.html)] [[Code](https://github.com/XiaoxinHe/G-Retriever)]
